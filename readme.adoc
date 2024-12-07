@@ -1,0 +1,10 @@
+= FastAPI with Celery
+
+This project is for my course work at testdriven.io where I'm learning to add 
+Celery to a FastAPI application. Celery provides asynchronous task processing, 
+which is vital for smooth user experiences. 
+
+[bibliography]
+== References
+
+* [[[testdriven]]] Michael Yin. The Definitive Guide to Celery and FastAPI. testdriven.io. Accessed December 2024.
