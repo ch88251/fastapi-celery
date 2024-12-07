@@ -8,3 +8,5 @@ which is vital for smooth user experiences.
 == References
 
 * [[[testdriven]]] Michael Yin. The Definitive Guide to Celery and FastAPI. testdriven.io. Accessed December 2024.
+* [[[fastapi]]] FastAPI. https://fastapi.tiangolo.com/. Accessed December 2024.
+* [[[celery]]] Celery. https://docs.celeryq.dev/en/stable/getting-started/introduction.html. Accessed December 2024.
